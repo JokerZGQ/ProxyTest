@@ -8,7 +8,7 @@ import java.util.Map;
  */
 public class For {
     public static void main(String[] args) {
-       /* retry:
+        retry:
        for (int i = 0 ;i < 2; i++){
            System.out.println("i"+i);
            for (int j = 0 ;j < 5 ; j++){
@@ -18,7 +18,7 @@ public class For {
                System.out.println("j"+j);
            }
        }
-       */
+
        /*
        int a = 10;
         if (a>1) {
