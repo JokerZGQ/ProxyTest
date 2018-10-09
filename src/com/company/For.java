@@ -25,9 +25,9 @@ public class For {
             System.out.println("哈哈");
         } else if (a>2) {
             System.out.println("嘿嘿");
-        }/*else {
+        }else {
             System.out.println("姑姑");
-        }*/
+        }
        /* Map map = new HashMap(2);
         map.put("1","1.1");
         map.put("2","1.1");
