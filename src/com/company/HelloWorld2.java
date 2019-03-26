@@ -10,7 +10,7 @@ public class HelloWorld2 {
         //j = j >> 3;
         modified = modified | false;
         j = j | 2;
-        j = j & 2;
+        j = j & 4;
         System.out.println(j);
     }
 }
